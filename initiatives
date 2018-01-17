@@ -1,0 +1,176 @@
+<html>
+
+<head>
+    <title>Initiatives - Develop Leaders & Programmes - Checkin101.com</title>
+    <meta name="description" content="Improve HRD and programmes with a leadership approach. Checkin101 was created with world-class education leaders" />
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,600,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="./style2.min.css">
+    <link rel="stylesheet" href="./combo.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="jquery.flexverticalcenter.min.js"></script>
+    <!-- <script src="mobileDetect.js"></script> -->
+    <script src="./script.min.js"></script>
+
+    <link rel="icon" type="image/png" sizes="32x32" href="./icon/favicon-32x32.png">
+    <meta property="og:title" content="Performance check-ins for organisations -  Checkin101.com">
+    <meta property="og:url" content="http://checkin101.com">
+    <meta property="og:image" content="http://notifr.com/fb-image.jpg">
+    <meta property="og:site_name" content="Checkin101" />
+    <meta property="og:description" content="Create a high performing organisation and keep track of what's working throughout the year. Checkin101 is used by education, health & training organisations" />
+    <!--    <meta name="viewport" content="width=device-width" />-->
+    <meta name="viewport" content="initial-scale=1.0" />
+
+</head>
+
+<body id="sub">
+    <div class="menu">
+        <header id="sub">
+            <div class="header-wrap">
+                <a href="./"><div class="logo">Checkin101</div></a>
+                <nav>
+                    <ul>
+                        <li><a href="./">Overview</a></li>
+                        <li><a href="./about">About</a></li>
+                        <li><a href="https://manage.checkin101.com">Manager Login</a></li>
+                        <li id="button" style="margin-right:20px"><a href="#contact">Contact Sales</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+    </div>
+    <div id="home">
+
+        <div id="initiatives" class="background">
+
+            <div class="content" id="signup">
+                <div class="text">Be a leader with your initiatives
+                    <br><span><br>Gain insights & foster better facilitator relationships</span>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+
+
+    <div class="pure-g section center padding" style="padding-top:20px">
+        
+        <div class="pure-u-1-1 section inset">
+            <img class="pure-u-sm-1-12 pure-u-1-2" src="assets/checkin101-gauge.svg">
+            <h2>Be a leader with your initiatives</h2>
+            <p class="pure-u-1-2"><b>HRD initiatives are becoming increasingly important within today's organisations,</b><br> with 92 out of 96 Fortune 500 CEOs saying that they are most interested in the business impact of programmes. These initiatives were affirmed to directly improve employee commitment, competency and organisation financial performance in a 2013 Asian Business Review study. But often they aren't operating at maximum returns. Wall Street Journal-profiled studies showed on average only 10% of taught skills are retained. Better metrics that focus on the ongoing impact to an organisation are more important than ever in improving the long term success of these programmes.  </p>
+        </div>
+        <div class="pure-u-1-1">
+            <div class="pure-u-sm-1-3 pure-u-1 left">
+                <p>
+                    The Check-in approach introduces more frequent measures into a programme initiative. Similar to senior leader check-ins, questions are asked at key touchpoints and gather an overall metric as well as understanding programme/person fit. Any initiative involving people can utilise the approach, including training, staff onboarding, diversity and CSR programmes. Checkin101 allows team data to be rolled up to better understand the effects on the wider-organisation. The Checkin101 product helps programme facilitators check-in beyond the programme and develop stronger ongoing relationships and impact. 
+                </p>
+            </div>
+            <div class="pure-u-1-12"></div>
+            <div class="pure-u-sm-1-3 pure-u-1">
+                <p class="left">
+                    <b>How Checkin101 optimises initiatives:</b><br>
+                    <br><img class="bullet" src="assets/checkin101-tick.svg"> Check-ins allow programmes to measure ongoing sentiment and help foster better programme facilitator relationships
+                    <br><img class="bullet" src="assets/checkin101-tick.svg"> Checkin101 is able to look beyond the programme to understand how employees are applying new skills
+                    <br><img class="bullet" src="assets/checkin101-tick.svg"> Checkin101 saves programme managers and employees time in the continuous evaluation process
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <div id="students " class="testimonial-slider lilia-slider ">
+        <div class="container ">
+            <div class="slider1 ">
+                <div class="slide ">
+                    <div class="container-slider " id="item3 ">
+                        <div class="lilia current-font " id="lilia_slide ">
+                            <a><img src="./assets/youthline.png" alt="Youthline "></a>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="slide2 ">
+                    <div class="testimonial-text " id="lilia_testimonial ">
+                        <p>"Checkin101 is a better experience.
+                            <br>Our people no longer feel like they are being watched over"</p>
+                        <p class="name"><span>Adetola Adelowo<br>Programmes Administrator</span></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="pure-g section center padding">
+        <h1 id="contact" class="pure-u-1-1" style="padding:0">Drop us a line and we'll be in touch</h1>
+        <div class="pure-u-1-1" id="signup">
+            <form id="signup_form">
+                <fieldset>
+                    <input id="form_token" name="form_token" type="hidden" value="f619d24f3bfd9c5c495f5255d71805e8">
+                    <input id="lang" name="lang" type="hidden" value="en">
+                    <input id="created_via" name="created_via" type="hidden" value="embedded_form">
+                    <input id="f:ZnVsbF9uYW1l:MA:" name="f:ZnVsbF9uYW1l:MA:" type="text" placeholder="Name" required="" autocapitalize="on" oninvalid="this.setCustomValidity('')">
+                    <input id="f:ZW1haWw:MA:" name="f:ZW1haWw:MA:" type="email" required="" placeholder="Email Address" autocapitalize="off">
+                    <input id="f:Y29tcGFueV9uYW1l:MA:" name="f:Y29tcGFueV9uYW1l:MA:" type="text" required="" placeholder="Your organisation" autocapitalize="on">
+                    <p class="button">
+                        <button type="submit" class="sign-up-btn ladda-button" data-style="contract" style="margin-top:20px;">
+                            Contact Sales
+                        </button>
+                    </p>
+                </fieldset>
+            </form>
+        </div>
+    </div>
+    
+    <div id="footer" class="pure-g section center padding dark">
+        <div class="pure-u-1-1">
+            <ul>
+                <li><a href="./">Overview</a></li>
+                <li><a href="./about">About</a></li>
+                <li><a href="https://manage.checkin101.com">Manager Login</a></li>
+                <li><a href="https://my.checkin101.com">My Check-ins</a></li>
+            </ul>
+            <ul>
+                <li>The Check-in approach to:</li>
+                <li><a href="./visibility">Leader Visibility</a></li>
+                <li><a href="./conversations">Conversations</a></li>
+                <li><a href="./initiatives">Initiatives</a></li>
+                <li><a href="./implementation">Implementation</a></li>
+            </ul>
+            <div class="line"></div>
+        </div>
+        <div class="pure-u-1-1">
+            <p class="footer-base-addr">Made with
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 18.46">
+                    <path d="M18.37,2.54A5.68,5.68,0,0,1,20,6.65a5.68,5.68,0,0,1-1.63,4.11L10,19.46l-8.37-8.7A5.68,5.68,0,0,1,0,6.65,5.68,5.68,0,0,1,1.63,2.54,4.66,4.66,0,0,1,5.17,1,4.66,4.66,0,0,1,8.7,2.54L10,3.88l1.35-1.35a4.77,4.77,0,0,1,7,0Z" transform="translate(0 -1)"
+                        style="fill:#fff" />
+                </svg> in NZ</p>
+            <p class="footer-base-email">support@checkin101.com</p>
+            <p class="twitter">
+                <a href="http://twitter.com/checkin101">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 16.27">
+                        <path d="M20,3.95a8,8,0,0,1-2,2.12v.51a11.9,11.9,0,0,1-3.2,8.07,10.78,10.78,0,0,1-8.5,3.62A11.32,11.32,0,0,1,0,16.41a9,9,0,0,0,1,.08,8,8,0,0,0,5.08-1.78,4.12,4.12,0,0,1-2.37-.83,3.88,3.88,0,0,1-1.44-2A5.1,5.1,0,0,0,3,12a4.76,4.76,0,0,0,1.1-.17,4.14,4.14,0,0,1-2.35-1.42,3.91,3.91,0,0,1-1-2.61v0a3.86,3.86,0,0,0,1.86.51A3.85,3.85,0,0,1,.85,4.8a4.08,4.08,0,0,1,.55-2A11.11,11.11,0,0,0,9.83,7a3.7,3.7,0,0,1-.08-.93A4.05,4.05,0,0,1,13.86,2a3.92,3.92,0,0,1,3,1.31,7.64,7.64,0,0,0,2.63-1,3.76,3.76,0,0,1-1.82,2.29A7,7,0,0,0,20,3.95Z"
+                            transform="translate(0 -2)" style="fill:#fff" />
+                    </svg>
+                </a>
+            </p>
+        </div>
+    </div>
+</body>
+<script>
+    $(document).ready(function() {
+        $('a[href*=#]:not([href=#])').click(function() {
+            if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') ||
+                location.hostname == this.hostname) {
+
+                var target = $(this.hash);
+                target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+                if (target.length) {
+                    $('html,body').animate({
+                        scrollTop: target.offset().top
+                    }, 1000);
+                    return false;
+                }
+            }
+        });
+    });
+</script>
+</html>
